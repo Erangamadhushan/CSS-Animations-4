@@ -12,6 +12,7 @@
             justify-content:center;
             min-height:100vh;
             gap:20px;
+            background-image:linear-gradient(45deg,#ffbd00,#eec170,#eb6541);
         }
         .box {
             margin-top:20px;
