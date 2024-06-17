@@ -1,3 +1,4 @@
+window.alert("Welcome to Simple CSS-Animations-4 ");
 let box = document.querySelectorAll('.box');
         let play = anime({
             targets:box,
